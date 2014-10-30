@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-  
+  # Default is "World"
   name = ARGV.first || "World"
   
   
