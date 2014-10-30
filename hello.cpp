@@ -2,6 +2,9 @@
 using namespace std;
 
 int main(){
-
-  cout << "Hello, #{ARGV.first}!" << endl;
+  
+  name = ARGV.first || "World"
+  
+  
+  cout << "Hello, #{name}!" << endl;
 }
