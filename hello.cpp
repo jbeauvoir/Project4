@@ -1,9 +1,6 @@
 #include <iostream>
 using namespace std;
 
-int main(){
-  using namespace std;
-
 int main(int argc, char* argv[]){
   // Default is "World"                                                                                                   
   //string name = ARGV.first || "World";                                                                                  
